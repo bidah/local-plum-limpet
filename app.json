@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "local-plum-limpet",
+    "slug": "local-plum-limpet",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "ios": { "bundleIdentifier": "computer.inti.localplumlimpet" },
+    "scheme": "localplumlimpet"
+  }
+}
